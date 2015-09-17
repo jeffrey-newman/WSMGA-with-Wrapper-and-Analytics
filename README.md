@@ -1,0 +1,2 @@
+# NSGAII-Wenyan-Wu-with-Wrapper-and-Analytics
+An implementation of Deb's NSGAII in C/C++ that allows mixing of Integer and Floating point decision varioables, Creep Mutation, and which includes a wrapper for linking to external objective function executables and displays/prints statistics of the search behaviour developed at the University of Adelaide by Wenyan Wu, Holger Maier, Aaron Zecchin, Feifei Zheng, Jeffrey Newman
