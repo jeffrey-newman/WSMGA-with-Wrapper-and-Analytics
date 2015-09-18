@@ -1,5 +1,5 @@
-# WSMGA (water system multiobjective genetic algorithm) with wrapper and analytics
-An implementation of a Genetic Algorithm (originally based on Deb's NSGAII) in C/C++ with the following features:
+# WSMGA with wrapper and analytics
+An implementation of a multiobjective genetic algorithm (originally based on Deb's NSGAII) in C/C++ with the following features:
 
 1. Mixing of integer and floating point decision varioables;
 2. Deb's nondominated sorting operator;
@@ -8,7 +8,8 @@ An implementation of a Genetic Algorithm (originally based on Deb's NSGAII) in C
 3. Includes a wrapper for linking to external objective function executables; and
 4. Displays/prints statistics of the search behaviour.
 
-These features have been developed at the University of Adelaide by Wenyan Wu, Holger Maier, Angus Simpson, and Jeffrey Newman.
+The GA was orignially designed for water systems, but has proven utility in water resource problems more generally. The code/design has been developed at the University of Adelaide by Wenyan Wu, Holger Maier, Angus Simpson, and Jeffrey Newman.
+WSMGA - Water System Multiobjective Genetic Algorithm
 
 Publications:
 Details of the algorithm are given in the following paper, which should be cited when the algorithm is used:
