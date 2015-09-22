@@ -1,4 +1,4 @@
-# WSMGA with wrapper and analytics
+# WSMGA with wrapper and analytics (based on Deb's NSGAII)
 An implementation of a multiobjective genetic algorithm (originally based on Deb's NSGAII) in C/C++ with the following features:
 
 1. Mixing of integer and floating point decision varioables;
